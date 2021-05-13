@@ -1,7 +1,7 @@
 <p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ErichComparin/estesAutomatizados-React?style=flat-square" />
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ErichComparin/TestesAutomatizados-React?style=flat-square" />
   
-  <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/estesAutomatizados-React?style=flat-square" />
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/TestesAutomatizados-React?style=flat-square" />
 
 </p>
 
